@@ -1,2 +1,2 @@
 # Protocols
-![protocols](Protocols.svg)
+![protocols](image.png)
